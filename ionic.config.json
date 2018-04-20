@@ -1,0 +1,8 @@
+{
+  "name": "ger-ginastica-elaboral",
+  "app_id": "",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
